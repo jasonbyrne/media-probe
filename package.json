@@ -1,6 +1,6 @@
 {
   "name": "media-probe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Probe audio or video file for data",
   "main": "dist/index.js",
   "scripts": {

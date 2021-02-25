@@ -17,7 +17,7 @@ interface FfprobeProgram {
   tags: Tags;
   streams: FfprobeStream[];
 }
-export interface Tags {
+interface Tags {
   variant_bitrate: string;
 }
 
